@@ -1,6 +1,3 @@
-<h1 align="left">Hi 👋, I'm Sadiq Ahmed </h1> 
-</br>
-
 ## About Me
 
 - Multifaceted Tech Enthusiast
