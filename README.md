@@ -23,7 +23,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=yellow&labelColor=black)](https://leetcode.com/er_sadiqkilledar/)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Sadiq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Sadiq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=ffffff)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Er-Sadiq&icon=4&color=8)](https://visitcount.itsvg.in)
