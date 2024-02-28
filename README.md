@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadiq Ahmed Killedar {Khan}</h1> 
+<h1 align="center">Hi 👋, I'm Sadiq Ahmed </h1> 
 </br>
 
 ## About Me
