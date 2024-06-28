@@ -5,6 +5,7 @@
 - Philomath
 - Love learning about CyberSec
 - Feel free to reach me at sadiqkhan.2503@gmail.com for any inquiries or collaborations.
+- visit my portfolio @ :- https://portfolio-er-killedar-dev.netlify.app/
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ersadiqahmedxcii) 
