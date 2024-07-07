@@ -94,6 +94,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Er-Sadiq/Er-Sadiq/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Er-Sadiq/Er-Sadiq/raw/output/snake.svg" alt="Snake animation" />
 
 ###
