@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Multifaceted Tech Enthusiast<br>🎓 Electronics and Communication Engineer<br>📚 Love Learning about CyberSec <br>✨ Philomath<br>📬 Feel free to reach me at sadiqkhan.2503@gmail.com for any inquiries or collaborations.<br>🌐 visit my portfolio @ :- https://portfolio-er-killedar-dev.netlify.app/</p>
+<p align="left">👨🏻‍💻 Multifaceted Tech Enthusiast<br>🎓 Electronics and Communication Engineer<br>📚 Love Learning about CyberSec <br>✨ Philomath<br>📬 Feel free to reach me at sadiqkhan.2503@gmail.com for any inquiries.<br>🌐 visit my portfolio @ :- https://portfolio-er-killedar-dev.netlify.app/</p>
 
 ###
 
@@ -18,12 +18,15 @@
   <a href="https://www.linkedin.com/in/ersadiqahmedxcii/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ersadiqahmedxcii/" target="_blank">
+  <a href="https://t.me/BloodHawk053t" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/sadiqkhan_2503" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+  <a href="https://leetcode.com/yourusername" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="leetcode logo" />
+</a>
 </div>
 
 ###
