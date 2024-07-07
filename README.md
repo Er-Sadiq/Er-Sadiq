@@ -95,3 +95,7 @@
 <img src="https://github.com/Er-Sadiq/Er-Sadiq/raw/output/snake.svg" alt="Snake animation" />
 
 ###
+---
+[![](https://visitcount.itsvg.in/api?id=Er-Sadiq&icon=4&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
