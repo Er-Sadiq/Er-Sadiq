@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Social Contacts</h3>
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQ0YmZ0bjlxZTM4Yzh0ZHB0ZnVlbmI0NzliMjZqYWNhaXF4b2NzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XyJPNKBskIDWR3Md8K/giphy.gif" width="20" alt="Social Media" > Social Media..
 
 ###
 
