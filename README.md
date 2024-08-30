@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">My Tech Stack</h3>
+### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="60" alt="My Tech Stack" > Tech Stack
 
 ###
 
