@@ -85,10 +85,14 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Er-Sadiq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Er-Sadiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://media.giphy.com/media/fxT9TYmgjBloBaLxL2/giphy.gif" width="60" alt="Stats" style="display: block; margin-bottom: 10px;"> Stats
+  <div style="display: flex; gap: 10px; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Er-Sadiq&show_icons=true&bg_color=-20,141414,1c39bb&title_color=FAFAFA&text_color=FAFAFA&icon_color=FAFAFA" alt="GitHub stats" style="width: 48%; height: 180px; object-fit: cover;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Sadiq&layout=compact&bg_color=-20,141414,1c39bb&title_color=FAFAFA&text_color=FAFAFA" alt="Top Langs" style="width: 48%; height: 180px; object-fit: cover;" />
+  </div>
 </div>
+
 
 ###
 
