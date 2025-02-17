@@ -26,6 +26,8 @@
 </div>
 
 
-<br/>
-<img src="https://visitcount.itsvg.in/api?id=Er-Sadiq&icon=4&color=8" alt="Visit count"/>
+<br />
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
 <!-- Created with 💖 by Er-Sadiq using GPRM (https://gprm.itsvg.in) -->
